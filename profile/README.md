@@ -1,4 +1,4 @@
-```markdown
+
 # LMS Система
 
 ![LMS Logo](https://via.placeholder.com/150)
