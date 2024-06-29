@@ -1,9 +1,16 @@
 
-# LMS Система
+<h1 align="center"> 🎩PinkHat LMS 🎩 </h1> <br>
 
-![image](https://github.com/OOO-KAKIE-LYUDI/.github/blob/main/profile/ban.png)
+<p align="left">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/OOO-KAKIE-LYUDI/.github/blob/main/profile/ban.png" width="800">
+  </a>
+</p>
 
-PinkHat LMS - это продвинутая система управления обучением, разработанная специально для студентов технических направлений.
+<p align="center">
+  <b>PinkHat LMS</b> - это продвинутая система управления обучением, разработанная специально для студентов технических направлений.
+</p>
+
 
 ### Содержание
 
@@ -64,4 +71,10 @@ PinkHat LMS - это продвинутая система управления 
 Прогресс пользователей
 - Система записывает и отображает прогресс каждого пользователя в каждой главе курса, что позволяет отслеживать достигнутые и текущие результаты.
 
-![image](https://github.com/OOO-KAKIE-LYUDI/.github/blob/main/profile/delim.png)
+---
+
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/OOO-KAKIE-LYUDI/.github/blob/main/profile/delim.png" width="800">
+  </a>
+</p>
