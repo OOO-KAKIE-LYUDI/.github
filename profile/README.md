@@ -1,7 +1,7 @@
 
 <h1 align="center"> 🎩PinkHat LMS 🎩 </h1> <br>
 
-<p align="left">
+<p align="center">
   <a href="https://gitpoint.co/">
     <img alt="GitPoint" title="GitPoint" src="https://github.com/OOO-KAKIE-LYUDI/.github/blob/main/profile/ban.png" width="800">
   </a>
